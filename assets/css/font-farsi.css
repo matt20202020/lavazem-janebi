@@ -5,6 +5,6 @@
   src: url(/assets/webfonts/fonts/Vazir-Medium.woff) format(woff);
   src: url(/assets/webfonts/fonts/Vazir-Medium.woff2) format(woff2);
 }
-* {
-  font-family: vazir-m;
+.font-farsi {
+  font-family: vazir-m !important;
 }
