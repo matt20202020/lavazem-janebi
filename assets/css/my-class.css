@@ -1,3 +1,6 @@
 .dir-rtl {
   direction: rtl;
 }
+.float-left {
+  float: left;
+}
