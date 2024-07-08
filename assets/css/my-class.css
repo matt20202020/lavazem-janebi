@@ -4,6 +4,49 @@
 .float-left {
   float: left;
 }
-.margin-r {
+.margin-r10 {
   margin-right: 10px;
+}
+.bg-header {
+  background-color: rgb(239, 240, 247);
+}
+.justify-content-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.margin-l50 {
+  margin-left: 50px;
+}
+.search-box {
+  margin-right: 26px;
+  margin-bottom: 15px;
+  justify-content: center;
+  align-items: center;
+  direction: rtl;
+  background-color: rgb(239, 240, 247);
+  border: 1px solid rgb(212, 213, 219);
+  border-radius: 30px;
+}
+.bg-sabade-kharid {
+  background-color: green;
+}
+.bg-main {
+  background-color: rgb(239, 240, 247);
+}
+.w-100 {
+  width: 50000px;
+}
+.w-250 {
+  width: 185px;
+}
+.m-0 {
+  margin: 0px;
+}
+.b-radius {
+  border-radius: 15px;
+}
+.font-farsi-10 {
+  font-family: vazir-m !important;
+  font-size: 10px;
 }
