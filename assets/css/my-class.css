@@ -46,7 +46,20 @@
 .b-radius {
   border-radius: 15px;
 }
-.font-farsi-10 {
-  font-family: vazir-m !important;
+
+.font-s-10 {
   font-size: 10px;
+  font-family: vazir-m !important;
+}
+.font-s-12 {
+  font-size: 12px;
+  font-family: vazir-m !important;
+}
+.font-s-8 {
+  font-size: 8px !important;
+  font-family: vazir-m !important;
+}
+.font-s-6 {
+  font-size: 6px !important;
+  font-family: vazir-m !important;
 }
