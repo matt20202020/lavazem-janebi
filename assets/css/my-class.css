@@ -7,6 +7,9 @@
 .margin-r10 {
   margin-right: 10px;
 }
+.margin-r15 {
+  margin-right: 15px;
+}
 .bg-header {
   background-color: rgb(239, 240, 247);
 }
@@ -82,4 +85,16 @@
 }
 .margin-b-15px {
   margin-bottom: 15px;
+}
+.border-3px {
+  border: 3px solid rgb(227, 227, 235);
+  border-radius: 5px 5px 5px 5px;
+  margin-bottom: 5px;
+  /* padding: 10px; */
+}
+.margin-3px {
+  margin: 3px;
+}
+.margin-b-20px {
+  margin-bottom: 80px;
 }
