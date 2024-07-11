@@ -1,0 +1,106 @@
+.dir-rtl {
+  direction: rtl;
+}
+.float-left {
+  float: left;
+}
+.margin-r10 {
+  margin-right: 10px;
+}
+.margin-r15 {
+  margin-right: 15px;
+}
+.bg-header {
+  background-color: rgb(239, 240, 247);
+}
+.justify-content-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.margin-l50 {
+  margin-left: 50px;
+}
+.search-box {
+  margin-right: 26px;
+  margin-bottom: 15px;
+  justify-content: center;
+  align-items: center;
+  direction: rtl;
+  background-color: rgb(239, 240, 247);
+  border: 1px solid rgb(212, 213, 219);
+  border-radius: 30px;
+}
+.bg-sabade-kharid {
+  background-color: green;
+}
+.bg-main {
+  background-color: rgb(239, 240, 247);
+}
+.w-100 {
+  width: 50px;
+}
+.w-250 {
+  width: 185px;
+}
+.m-0 {
+  margin: 0px;
+}
+.b-radius {
+  border-radius: 15px;
+}
+
+.font-s-10 {
+  font-size: 10px;
+  font-family: vazir-m !important;
+}
+.font-s-12 {
+  font-size: 12px;
+  font-family: vazir-m !important;
+}
+.font-s-8 {
+  font-size: 8px !important;
+  font-family: vazir-m !important;
+}
+.font-s-6 {
+  font-size: 6px !important;
+  font-family: vazir-m !important;
+}
+.margin-l-10 {
+  margin-left: 10px;
+}
+.border-2px {
+  border: 2px solid rgb(227, 227, 235);
+  border-radius: 0px 5px 5px 5px;
+  margin-bottom: 5px;
+}
+.margin-r-0 {
+  margin-right: 0px;
+}
+.margin-r-50px {
+  margin-right: 50px;
+}
+.hover-13616:hover {
+  color: rgb(69, 69, 138);
+}
+.margin-b-15px {
+  margin-bottom: 15px;
+}
+.border-3px {
+  border: 3px solid rgb(227, 227, 235);
+  border-radius: 5px 5px 5px 5px;
+  margin-bottom: 5px;
+  /* padding: 10px; */
+}
+.margin-3px {
+  margin: 3px;
+}
+.margin-b-20px {
+  margin-bottom: 40px;
+}
+.float-left {
+  float: left;
+}
+.margin-left-10px {
+  margin-left: 10px;
+}
