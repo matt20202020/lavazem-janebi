@@ -1,0 +1,5 @@
+@media (min-width: 992) and (max-width: 1500px) {
+  .nav-992 {
+    display: none;
+  }
+}
