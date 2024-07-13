@@ -132,3 +132,10 @@
 .color-orange {
   color: orangered;
 }
+.justify-content-end {
+  justify-content: end;
+  /* margin-top: 20px; */
+}
+.margin-b-15px {
+  margin-bottom: 40px;
+}
