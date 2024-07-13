@@ -61,6 +61,10 @@
   font-size: 12px;
   font-family: vazir-m !important;
 }
+.font-s-13 {
+  font-size: 13px;
+  font-family: vazir-m !important;
+}
 .font-s-8 {
   font-size: 8px !important;
   font-family: vazir-m !important;
@@ -106,4 +110,25 @@
 }
 .margin-left-10px {
   margin-left: 10px;
+}
+.bg-yellow {
+  background-color: #ffbb44 !important;
+}
+.bg-sormei {
+  background-color: #183c7d !important;
+}
+.color-sormei {
+  color: #183c7d !important;
+}
+.color-yellow {
+  color: #ffbb44 !important;
+}
+.text-hover:hover {
+  color: #ffbb44 !important;
+}
+.color-sormei-1 {
+  color: #183c7d !important;
+}
+.color-orange {
+  color: orangered;
 }
