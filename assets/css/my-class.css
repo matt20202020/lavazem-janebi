@@ -62,7 +62,7 @@
   font-family: vazir-m !important;
 }
 .font-s-13 {
-  font-size: 13px;
+  font-size: 16px;
   font-family: vazir-m !important;
 }
 .font-s-8 {
@@ -138,4 +138,16 @@
 }
 .margin-b-15px {
   margin-bottom: 40px;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+}
+.hor-center {
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
+.text-aling-center {
+  text-align: center;
 }
